@@ -1,0 +1,19 @@
+{
+  "name": "Beyond the Queue — Patient Flow & Records",
+  "short_name": "Beyond Queue",
+  "description": "Offline-capable patient flow and records system for South African clinics and hospitals.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
